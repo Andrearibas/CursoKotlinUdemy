@@ -11,10 +11,10 @@ fun main() {
     val multiplicacao = v1 * v2
     val modulo = v1 % 2
 
-    println(soma)
-    println(subtracao)
-    println(divisao)
-    println(multiplicacao)
-    println(modulo)
+    println("A Soma é $soma")
+    println("A Subtraçao é $subtracao")
+    println("A Divisao é $divisao")
+    println("A Multiplicação é $multiplicacao")
+    println("O Resto é $modulo")
 
 }
