@@ -2,8 +2,8 @@ package com.example.cursokotlin.fundamentos
 
 fun main() {
     val a: Int = 33.dec()
-    var b: String = a.toString()
+    var b = a.toString()
 
-    println("Int: é $a")
-    println("O primeiro char da String é ${b.first()}")
+    println("O valor de A é = $a")
+    println("O primiero char do String B é ${b.first()}")
 }

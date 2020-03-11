@@ -2,6 +2,7 @@ package com.example.cursokotlin.fundamentos
 
 import com.example.cursokotlin.fundamentos.pacoteA.Coisa
 import com.example.cursokotlin.fundamentos.pacoteA.FaceMoeda
+import com.example.cursokotlin.fundamentos.pacoteB.soma
 import com.example.cursokotlin.fundamentos.pacoteB.subtracao
 import com.example.cursokotlin.fundamentos.pacoteA.simplesFuncao as funcaoSimples
 

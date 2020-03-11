@@ -9,6 +9,7 @@ fun main() {
     println(Long.MAX_VALUE)
     println(Long.MIN_VALUE)
 
+
     //Tipos Numericos Reais
     val num5: Float = 3.45F
     val num6: Double = 3.4
@@ -26,4 +27,6 @@ fun main() {
 
     //Tudo é um objeto
     println(10.dec())
+
+
 }
