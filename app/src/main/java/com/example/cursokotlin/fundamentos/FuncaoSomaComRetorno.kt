@@ -1,10 +1,10 @@
 package com.example.cursokotlin.fundamentos
 
-fun soma(a: Int, b: Int = 1): Int {
+fun soma(a: Int, b: Int = 2): Int {
     return a + b
 }
 
 fun main() {
-    println(soma(10))
-    println(soma(5,3))
+    println(soma(5,7))
+    println(soma(5))
 }

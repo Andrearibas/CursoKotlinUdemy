@@ -22,6 +22,7 @@ fun main() {
     println(listOf(num1,num2,num3, num4, num5, num6, char, boolean))
 
     println(2 is Int)
+    println(2f is Float)
 
     //Tudo é um objeto
     println(10.dec())
