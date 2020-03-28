@@ -15,6 +15,4 @@ fun main() {
     }else {
         println("Nota inválida")
     }
-
-
 }
